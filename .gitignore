@@ -1,0 +1,15 @@
+# Python / Virtual Environment
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Airflow Runtime Logs & Temp Files
+logs/
+airflow-webserver.pid
+standalone_admin_password.txt
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
